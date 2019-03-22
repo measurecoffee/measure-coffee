@@ -1,4 +1,4 @@
-# Welcome to the official Measure.coffee project
+# Welcome to the Official Measure.coffee Project
 
 ## History
 
